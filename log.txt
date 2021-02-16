@@ -1,0 +1,8 @@
+login: wer
+name: ter
+access level: no
+date: 2021-02-16
+time: 06:49:20 PM
+test time: 62 seconds
+result: 8 points
+---------------------------------------------------
