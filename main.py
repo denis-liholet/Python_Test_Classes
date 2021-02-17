@@ -1,3 +1,5 @@
+""" модуль запуска всей программы """
+
 from quiz import launch
 from user import authorization
 from decorators import logger

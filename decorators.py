@@ -1,5 +1,6 @@
-from datetime import datetime
+""" декоратор, записывает параметры и результаты теста в файл """
 
+from datetime import datetime
 from quiz import Quiz
 
 LOG_FILE_PATH = "log.txt"

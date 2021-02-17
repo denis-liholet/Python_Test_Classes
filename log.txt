@@ -1,8 +1,24 @@
-login: wer
-name: ter
-access level: no
-date: 2021-02-16
-time: 06:49:20 PM
-test time: 62 seconds
-result: 8 points
+login: quick56
+name: Denis
+access level: student
+date: 2021-02-17
+time: 03:25:47 PM
+test time: 53 seconds
+result: 10 points
+---------------------------------------------------
+login: cloud18
+name: Mike
+access level: teacher
+date: 2021-02-17
+time: 04:10:32 PM
+test time: 18 seconds
+result: 4 points
+---------------------------------------------------
+login: sanek1983
+name: Alex
+access level: student
+date: 2021-02-17
+time: 04:11:33 PM
+test time: 9 seconds
+result: 2 points
 ---------------------------------------------------
