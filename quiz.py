@@ -44,6 +44,8 @@ def _print_question():
         print(quiz.options_list[i])
         _take_user_answer(i)
 
+    print(f"Верных ответов: {Quiz.quiz_score}")
+
 
 def launch():
     """ запуск теста """
