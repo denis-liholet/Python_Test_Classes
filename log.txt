@@ -38,3 +38,30 @@ time: 09:18:54 AM
 test time: 10 seconds
 result: 4 points
 ---------------------------------------------------
+login: test01
+name: Denis
+study course: Denis
+access level: student
+date: 2021-02-18
+time: 10:49:52 AM
+test time: 5 seconds
+result: 2 points
+---------------------------------------------------
+login: test02
+name: Denis
+study course: Python
+access level: student
+date: 2021-02-18
+time: 11:09:21 AM
+test time: 5 seconds
+result: 2 points
+---------------------------------------------------
+login: final666
+name: Denis
+study course: Python
+access level: student
+date: 2021-02-18
+time: 11:20:40 AM
+test time: 8 seconds
+result: 4 points
+---------------------------------------------------

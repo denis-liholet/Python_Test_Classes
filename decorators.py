@@ -15,7 +15,8 @@ def logger(func):
         with open(LOG_FILE_PATH, "a", encoding="UTF-8") as log:
             log.write("login: " + args[0] + "\n")
             log.write("name: " + args[1] + "\n")
-            log.write("access level: " + args[2] + "\n")
+            log.write("study course: " + args[2] + "\n")
+            log.write("access level: " + args[3] + "\n")
             log.write("date: " + str(start.date()) + "\n")
             log.write("time: " + str(start.strftime("%r")) + "\n")
             log.write("test time: " + str(time_result.seconds).strip() + " seconds" + "\n")
