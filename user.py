@@ -12,8 +12,6 @@ class Student(User):
 
     def __init__(self, login, name, course, role='student'):
         super().__init__(login, name, role)
-        self.login = login
-        self.name = name
         self.course = course
 
     @classmethod
@@ -32,5 +30,3 @@ class Teacher(User):
 
     def __init__(self, login, name, role='teacher'):
         super().__init__(login, name, role)
-        self.login = login
-        self.role = role
